@@ -1,5 +1,9 @@
 # nma3012
+
 # POP DAT CULTURE
+
+![Cover](/finalish_v2/screenshots/intro.png?raw=true "Cover")
+
 
 //Summary
 
@@ -18,9 +22,11 @@ Then different keys are assigned to different pop culture phrases. For example, 
 
 //Screenshots
 
-![Cover](/finalish_v2/screenshots/intro.png?raw=true "Cover")
 
 ![Exhibit-1](/finalish_v2/screenshots/two.png?raw=true "Exhibit 1")
 
+The display will show instructions on how to use and interact with this work.
+
 ![Exhibit-2](/finalish_v2/screenshots/three.png?raw=true "Exhibit 2")
 
+When assigned keys are pressed, Pop Culture phrases are shown which slowly fade away.
