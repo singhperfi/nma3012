@@ -4,6 +4,9 @@
 
 ![Cover](/finalish_v2/screenshots/intro.png?raw=true "Cover")
 
+//Introduction
+
+Art! I don't particularly get the world of art. Its abstract, perplexing and muddled at times. Art to me is only useful in one medium and that is, a conduit for sending a message or highlighting a problem. Bear in mind, it is extremely hard to escape abstraction in art. But, in essence I don't like the abstraction in ideas being presented by art, even though the medium might be abstract itself. That is how I see every art project I have done so far. Staying away from touchy-feely and cutesy bits and representing something anyone can relate to without being in a LSD induced trance state.
 
 //Summary
 
